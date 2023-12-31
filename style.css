@@ -1,0 +1,20 @@
+button{
+  width:49%;
+  height:50px;
+  border-radius:50px;
+}
+#inicio{
+  background-color:green;
+}
+#alto{
+  background-color:red;
+}
+#tiempo{
+  width:200px;
+  height:200px;
+  border:5px solid  blue;
+  border-radius:200px;
+}
+h2{
+  margin-top:90px;
+}
